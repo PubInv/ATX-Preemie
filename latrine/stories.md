@@ -5,6 +5,8 @@ This fan is from Thermaltake cand cost about $20 from Radio Shack:
 
 ## Tasks
 
-* Try to build the MOSFET/Diode Circuit mentioned on the Sparkfun site http://bildr.org/2012/03/rfp30n06le-arduino/ (I think I have all the components for this.)
-* Buy two 6-V lantern batteries in order to test my ability to do this at 6V and 12V (final installation is expected to be 12V.)
+* Try to build the MOSFET/Diode Circuit mentioned on the Sparkfun site http://bildr.org/2012/03/rfp30n06le-arduino/ (I think I have all the components for this.) -- done, with a stepper motor (not my new fan).
+* Buy two 6-V lantern batteries in order to test my ability to do this at 6V and 12V (final installation is expected to be 12V.) -- done
+* Now try to drive the new fan with the lantern batteries.
+* 
 
