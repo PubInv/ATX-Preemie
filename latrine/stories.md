@@ -14,5 +14,10 @@ http://bildr.org/blog/wp-content/uploads/2012/03/rfp30n06le-arduino-motor.png
 
 With a 6volt lantern battery.  Unfortunately, the fan I bought does NOT work with 12 V! Curses, I bought the wrong fan!  I tried to hook up two lantern batteries in series, but couldn't run the fan that way.  However, I am confident the MOSFET switching will let us switch a 12 V or higher power supply.
 
+Here is a photo of the set up:
+
+![imag0113](https://cloud.githubusercontent.com/assets/5296671/7384273/51a079ca-edf5-11e4-8dd8-c86ff535c83b.jpg)
+
+
 
 
