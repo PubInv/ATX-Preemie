@@ -18,7 +18,7 @@ Here is a photo of the set up:
 
 ![imag0113](https://cloud.githubusercontent.com/assets/5296671/7384273/51a079ca-edf5-11e4-8dd8-c86ff535c83b.jpg)
 
-Story #2: Hook Same Circuit up to the Gas Sensor
+## Story #2: Hook Same Circuit up to the Gas Sensor
 
 This will wait until tomorrow!
 
@@ -27,6 +27,9 @@ Tasks:
 * Then try to actually get the Methane sensor to work again.
 * If I can get that working (or if I can't!) consider: Getting a 12V fan to prove that we can do that. Also possibly solder the circuit in place for better packaging that what we have now.
 * Consider getting some sort of enclosure.
+
+Note: I drained a 9 volt battery overnight using this circuit.  This should not be a problem in our actual installation, but this is still unfortunate.  I think it would be nice to save energy by polling less commonly and turning off the onboad LEDs.  I saw an article on this somewhere, I believe it is a low priority.
+
 
 
 
