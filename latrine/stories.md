@@ -30,6 +30,8 @@ Tasks:
 
 Note: I drained a 9 volt battery overnight using this circuit.  This should not be a problem in our actual installation, but this is still unfortunate.  I think it would be nice to save energy by polling less commonly and turning off the onboad LEDs.  I saw an article on this somewhere, I believe it is a low priority.
 
+Note: Try as I might and try as I may, I cannot get the MQ4 methane sensor to react to natural gas, a butane cigarette lighter, or ethanl fumes.  I don't know if I damaged my unit installing it, but in theory it should be sensitive to all of those gases, though not as sensitive as to pure methane.  I have ordered other sensors which I will also test.
+
 
 
 
