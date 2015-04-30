@@ -2,6 +2,12 @@
 
 This repository is to hold word done by [Engineers Without Borders, Greater Austin Chapter](http://ewbgreateraustin.org), particularly for the instrumentation group.
 
+We welcome questions and participation.
+
+There is a directory for each project.
+
+Note that much of the work here involves the schematics for the circuits that we are using, rather than just the Arduino code.  We have not yet written up nice circuit diagrams but will be doing that if it becomes valuable enough.
+
 ## Project: Latrine Fan
 
 We are builing a latrine for a local organic farm [organization](http://ewbgreateraustin.org/news/amplifyatx-with-farmshare-and-ewb/). The Instrumentation group in particular is prototyping a gas-sensor activated fan.
@@ -16,4 +22,8 @@ We are working on an inexpensive incubator to keep premature infants at healthy 
 Note that this probably is being wonderfully addressed by [Embrace.org](http://embraceglobal.org/embrace-warmer/), which has made a $200 warmer.
 
 We are not necessarily aiming to replace or improve upon the Embrace warmer, but rather to explore a different point in the design spectrum.
+
+## Project: Soil Moisture Sensor
+
+The team, or possibly just Anjan, has developed a soil moisture sensor.
 
