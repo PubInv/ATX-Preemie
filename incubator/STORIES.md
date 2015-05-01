@@ -30,3 +30,15 @@ If I can figure out how to package this it should be usable as a model we can te
 
 ![imag0115](https://cloud.githubusercontent.com/assets/5296671/7426473/b4928d2e-ef8b-11e4-9f14-0166d2df42df.jpg)
 
+### Note on packaging
+
+One way to package this would be to solder the resistors to the protosolder board.  Then build a board with the bundles of wires:
+
+* three wires attached to temperature sensor about 18" long (stranded)
+* 4 wires attached to LED abou 18" long (stranded)
+* Ground, common, signal, red, green and blue soldered on solid wire that can go into Arduino.
+
+That would take about 2 hours to make, I reckon.
+
+Is this worth doing?
+
