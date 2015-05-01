@@ -23,3 +23,10 @@ It talks about both the hardware and software.  For our purposes we could deal w
 # Extra Credit
 
 Build a temperature sensing test infant that let's you know when it is too cold or too hot.
+
+Here is the working temperature circuit with a red, green, blue LED.
+
+If I can figure out how to package this it should be usable as a model we can test with:
+
+![imag0115](https://cloud.githubusercontent.com/assets/5296671/7426473/b4928d2e-ef8b-11e4-9f14-0166d2df42df.jpg)
+
