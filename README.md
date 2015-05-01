@@ -1,6 +1,6 @@
 # EWB
 
-This repository is to hold word done by [Engineers Without Borders, Greater Austin Chapter](http://ewbgreateraustin.org), particularly for the instrumentation group.
+This repository is to hold work done by [Engineers Without Borders, Greater Austin Chapter](http://ewbgreateraustin.org), particularly for the instrumentation group.
 
 We welcome questions and participation.
 
