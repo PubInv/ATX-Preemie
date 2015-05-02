@@ -52,3 +52,7 @@ Use male-male breakaway headers. Score a single row or perfboard with a utitlity
 
 I didn't have time to order a "shield", I just needed get those wires from a remote LED (about 18" away in the "test baby") into the output pins 9,10, and 11.  Hopefully this is a reasonable sturdy solution.
 
+Close-up of the RGB LED on the other end of this wire.  Note the resistor soldered in-line to prevent burning out the LED --- don't forget that or you waste an LED!
+
+![imag0117](https://cloud.githubusercontent.com/assets/5296671/7442080/261e49b4-f0c8-11e4-8549-3448a1482c87.jpg)
+
