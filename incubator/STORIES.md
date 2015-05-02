@@ -44,3 +44,11 @@ Is this worth doing?
 
 Note: I am actually working on this.  I found some 8-strand telephone interface wire.  I am using seven of them.  I soldered the LED in place, I need to do the temperature sensor next.  I'm not sure this is a great use of my time, but at least it will be something demonstrable at the Mini Maker Faire.
 
+Note: Here is how I made a little Arduino plugin.
+
+![imag0116](https://cloud.githubusercontent.com/assets/5296671/7442051/3c631796-f0c7-11e4-911f-d299824b4876.jpg)
+
+Use male-male breakaway headers. Score a single row or perfboard with a utitlity knife then break with a pair of pliers.  Solder the headers into the board.  Now you have a solderable place to put your sensor wires.
+
+I didn't have time to order a "shield", I just needed get those wires from a remote LED (about 18" away in the "test baby") into the output pins 9,10, and 11.  Hopefully this is a reasonable sturdy solution.
+
