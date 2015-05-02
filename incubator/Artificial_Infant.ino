@@ -63,7 +63,8 @@ void loop()                     // run over and over again
      setColor(ledDigitalOne,GREEN);
    }
   // Let's flash the LED long enough for people to see it, then go to sleep to save power....
-  // Note: If 
+  // Note: Using lpDelay saves power but seems to break the USB so you can't digitally read the
+  // the temperature.  Depending on your goal, uncomment lpDelay and comment out the normal delay (or vice versa.)
 // lpDelay(1);
  delay(250);
  setColor(ledDigitalOne,BLACK);
