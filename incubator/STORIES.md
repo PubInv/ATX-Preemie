@@ -56,3 +56,8 @@ Close-up of the RGB LED on the other end of this wire.  Note the resistor solder
 
 ![imag0117](https://cloud.githubusercontent.com/assets/5296671/7442080/261e49b4-f0c8-11e4-8549-3448a1482c87.jpg)
 
+
+Finished Arduino Connectors:
+
+![imag0118](https://cloud.githubusercontent.com/assets/5296671/7442635/b8ebe6e6-f0de-11e4-8b23-eeaf36906224.jpg)
+
