@@ -42,3 +42,5 @@ That would take about 2 hours to make, I reckon.
 
 Is this worth doing?
 
+Note: I am actually working on this.  I found some 8-strand telephone interface wire.  I am using seven of them.  I soldered the LED in place, I need to do the temperature sensor next.  I'm not sure this is a great use of my time, but at least it will be something demonstrable at the Mini Maker Faire.
+
