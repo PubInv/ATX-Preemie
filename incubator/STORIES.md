@@ -61,3 +61,6 @@ Finished Arduino Connectors:
 
 ![imag0118](https://cloud.githubusercontent.com/assets/5296671/7442635/b8ebe6e6-f0de-11e4-8b23-eeaf36906224.jpg)
 
+Finished baby ready for testing (showing loose heating fabric below it.)
+
+![imag0120](https://cloud.githubusercontent.com/assets/5296671/7442632/7a99009a-f0de-11e4-9ade-ce61a629c64e.jpg)
