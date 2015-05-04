@@ -15,6 +15,8 @@ We are builing a latrine for a local organic farm [organization](http://ewbgreat
 
 The photo https://github.com/PIFAH/EWB/blob/master/SenseAndReact.jpg is a sorry substitute for a schematic, but this circuit is in such a prototype form and is such a simple modification of work from the Arduino Experimenter's kit that it is not worth documenting more fully.
 
+After a proper burn-in period I was able to get MQ2 and MQ6 gas sensors wroking.  I previously had the "sense-and-react" code working with a pressure sensor, but now in theory we could make it work with the gas sensors.
+
 ## Project: Premature Infant Incubator
 
 We are working on an inexpensive incubator to keep premature infants at healthy temperature.
