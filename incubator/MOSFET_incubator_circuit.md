@@ -20,4 +20,10 @@ I have a 6V Zinc-Chorlide lantern battery.  A D-Cell has 5 watt hours.  I'll ass
 power --- it is not goin to last long at full power!  And this will certainly be a problem in the intended use case
 of an underdeveloped country.  But nonetheless I will push forward with my breadboarding.
 
+Note: The thing really noticably puts out at 10V.  On a weak 5.5 V it barely makes a noticable heat.
+
+Here is the breadboard for this circuit:
+
 ![imag0122](https://cloud.githubusercontent.com/assets/5296671/7463435/017b8ea6-f27f-11e4-9f11-51d559c9581b.jpg)
+
+
