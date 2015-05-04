@@ -6,13 +6,23 @@
 
 Prove that I can drive the new heating blanket with the MOSFET that I used for the fan.
 
+Okay, I got this done at 4:48 on Monday, May the 4th.  An importan observation:
+
+When hooked up to my power supply, the heating blanket gets warm very quickly at 10Vs. Based on a battery running at 
+5.5 V, it sort of barely gets warm.
+
 ## Work with remote Temperature sensor
 
-Prove that I can read the temperature effectively with the remote transistor
+Prove that I can read the temperature effectively with the remote transistor -- done before.
 
 ## Attempt to use PID library to maintain the temperature correctly.
 
 ## Construct working prototype
+
+I now need to do this.  I have the basic circuit breadboarded, but it is impossible to tie the heat blanket into the
+thermometer.  I now need to package it with cords at least a little in order to test it.
+
+
 
 ## Make run on low power
 
