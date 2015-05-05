@@ -2,7 +2,7 @@
 
 (This is mostly in preparation for Mini Maker Faire.)
 
-## Prove that heating blanket works with MOSFET
+## Prove that heating blanket works with MOSFET - done
 
 Prove that I can drive the new heating blanket with the MOSFET that I used for the fan.
 
@@ -11,7 +11,7 @@ Okay, I got this done at 4:48 on Monday, May the 4th.  An importan observation:
 When hooked up to my power supply, the heating blanket gets warm very quickly at 10Vs. Based on a battery running at 
 5.5 V, it sort of barely gets warm.
 
-## Work with remote Temperature sensor
+## Work with remote Temperature sensor - done
 
 Prove that I can read the temperature effectively with the remote transistor -- done before.
 
@@ -19,6 +19,8 @@ Prove that I can read the temperature effectively with the remote transistor -- 
 
 I now need to do this.  I have the basic circuit breadboarded, but it is impossible to tie the heat blanket into the
 thermometer.  I now need to package it with cords at least a little in order to test it.
+
+Okay, as of May 5th, I have now soldered together, but not tested, the sensor, the blanket, and the MOSFET, the diode, and the pull down resistor.  Wish me luck!
 
 ### Note: The doll must have heat conductance.
 
