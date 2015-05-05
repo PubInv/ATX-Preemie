@@ -22,6 +22,10 @@ Prove that I can read the temperature effectively with the remote transistor -- 
 I now need to do this.  I have the basic circuit breadboarded, but it is impossible to tie the heat blanket into the
 thermometer.  I now need to package it with cords at least a little in order to test it.
 
+### Note: The doll must have heat conductance.
+
+The first doll I used has a bean-bag body.  If you heat the back side, it takes a very long time for the front side to get warm.  We must replace this with water, or a gel, which better simulates human flesh both in heat capacity and heat conductance.
+
 
 
 ## Make run on low power
