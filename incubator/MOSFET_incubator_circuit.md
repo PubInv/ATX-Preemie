@@ -26,4 +26,8 @@ Here is the breadboard for this circuit:
 
 ![imag0122](https://cloud.githubusercontent.com/assets/5296671/7463435/017b8ea6-f27f-11e4-9f11-51d559c9581b.jpg)
 
+# MAJOR FLAW
+
+So a major flaw with this design for its inteded purpose is that if the Arduino is off full power flows to the heating element.  This could cook the baby!  We obviously have to redesign that.  I don't know if that means we use a P-Channel MOSFET, or pull-down reistor on the gate in some way.
+
 
