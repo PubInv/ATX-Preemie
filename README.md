@@ -19,11 +19,8 @@ After a proper burn-in period I was able to get MQ2 and MQ6 gas sensors wroking.
 
 ## Project: Premature Infant Incubator
 
-We are working on an inexpensive incubator to keep premature infants at healthy temperature.
+Please see the project directory: https://github.com/PIFAH/EWB/tree/master/incubator
 
-Note that this probably is being wonderfully addressed by [Embrace.org](http://embraceglobal.org/embrace-warmer/), which has made a $200 warmer.
-
-We are not necessarily aiming to replace or improve upon the Embrace warmer, but rather to explore a different point in the design spectrum.
 
 ## Project: Soil Moisture Sensor
 
