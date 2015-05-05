@@ -15,8 +15,6 @@ When hooked up to my power supply, the heating blanket gets warm very quickly at
 
 Prove that I can read the temperature effectively with the remote transistor -- done before.
 
-## Attempt to use PID library to maintain the temperature correctly.
-
 ## Construct working prototype
 
 I now need to do this.  I have the basic circuit breadboarded, but it is impossible to tie the heat blanket into the
