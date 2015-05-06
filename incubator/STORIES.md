@@ -26,13 +26,10 @@ Okay, as of May 5th, I have now soldered together, but not tested, the sensor, t
 
 The first doll I used has a bean-bag body.  If you heat the back side, it takes a very long time for the front side to get warm.  We must replace this with water, or a gel, which better simulates human flesh both in heat capacity and heat conductance.
 
+## May 6th
 
+I had everything working on the breadboard.  At great pain, I soldered it all together to make it more sturdy, and I was never able to get it to work.  At first, I wired the MOSFET in backwards.  Then I carefully desoldered, and soldered it back in --- AGAIN incorrectly.  I must be really slipping.  But it still didn't work.  Then I desoldered THAT, and tried a fresh MOSFET.  That did NOT appear to switch current to the load, though it converted 5 amps to heat inside the MOSFET!  I assume it is damaged, I couldn't find any problem with the solder joints.  I have ordered more MOSFETS but am not considering building a physical-relay based solution -- a relay came with my ARDX. Once again I will breadboard it first, then see if I can solder it together --- I don't want to go the Mini Make Faire with a breadboard solution.
 
-## Make run on low power
-
-This is an exclellent article: https://www.openhomeautomation.net/arduino-battery/
-
-It talks about both the hardware and software.  For our purposes we could deal with the software first (should be almost trivial) and then deal with the hardware later.)
 
 # Extra Credit
 
@@ -83,5 +80,11 @@ Finished baby ready for testing (showing loose heating fabric below it.)
 
 ![imag0120](https://cloud.githubusercontent.com/assets/5296671/7442632/7a99009a-f0de-11e4-9ade-ce61a629c64e.jpg)
 
+
+## Make run on low power
+
+This is an exclellent article: https://www.openhomeautomation.net/arduino-battery/
+
+It talks about both the hardware and software.  For our purposes we could deal with the software first (should be almost trivial) and then deal with the hardware later.)
 
 
