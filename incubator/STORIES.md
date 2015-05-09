@@ -30,7 +30,11 @@ Okay, as of May 5th, I have now soldered together, but not tested, the sensor, t
 
 I'm surprised that this took the whole week.  Now on Friday night, I am finally done.  The test system has shown me that we really need a model of the infant that has heat capacity and some heat conduction.  The doll currently in use transmits almost no heat, so it is very hard to warm anything not in direct contact with the heat blanket.  Of course, in practice we want to be slow and gentle in our warming, but for test purposes this is very tedious.
 
+![imag0128](https://cloud.githubusercontent.com/assets/5296671/7547662/5703b912-f5b7-11e4-86b0-711fdefc3394.jpg)
 
+You can see in the above image that I packaged everything up into 3 Arduino cases. This is probably not optimal, but hopefully is sturdy enough for Mini Maker Faire. Note that one Arduino is for the test system, and one for switching the 6-12 V power to the heating blanket.
+
+At this point, the system is basically working.  However, a major problem is that my doll is basically a huge insulator rather than either a heat mass or conductive.  So the heating blanket is not really modelling warming up the entire infant.  
 
 ### Note: The doll must have heat conductance.
 
