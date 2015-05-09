@@ -15,12 +15,18 @@ When hooked up to my power supply, the heating blanket gets warm very quickly at
 
 Prove that I can read the temperature effectively with the remote transistor -- done before.
 
-## Construct working prototype
+## Construct working prototype - done
 
 I now need to do this.  I have the basic circuit breadboarded, but it is impossible to tie the heat blanket into the
 thermometer.  I now need to package it with cords at least a little in order to test it.
 
 Okay, as of May 5th, I have now soldered together, but not tested, the sensor, the blanket, and the MOSFET, the diode, and the pull down resistor.  Wish me luck!
+
+### May 8th -- finally done
+
+I'm surprised that this took the whole week.  Now on Friday night, I am finally done.  The test system has shown me that we really need a model of the infant that has heat capacity and some heat conduction.  The doll currently in use transmits almost no heat, so it is very hard to warm anything not in direct contact with the heat blanket.  Of course, in practice we want to be slow and gentle in our warming, but for test purposes this is very tedious.
+
+
 
 ### Note: The doll must have heat conductance.
 
