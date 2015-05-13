@@ -32,6 +32,12 @@ Note: I drained a 9 volt battery overnight using this circuit.  This should not 
 
 Note: Try as I might and try as I may, I cannot get the MQ4 methane sensor to react to natural gas, a butane cigarette lighter, or ethanl fumes.  I don't know if I damaged my unit installing it, but in theory it should be sensitive to all of those gases, though not as sensitive as to pure methane.  I have ordered other sensors which I will also test.
 
+## May 12, 2015
+
+I now have this working with the "flammable gas sensor" but not the Methane sensor.  As far as I can tell, the Methane sensor doesn't work at all.  I have burned it in properly.  I think it may have been damaged in my soldering escapades, or the breakout board doesn't work.  I don't think it is worth continuing to investigate this.  For the Austin Mini Maker Faire, I will use the gas one.  My goal now is to get that pacakgaged up in some way.
+
+
+
 
 
 
