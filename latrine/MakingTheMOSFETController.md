@@ -14,6 +14,8 @@ This now switches 12V power from two lantern batteries into the latrine fan very
 
 Observe the way I tried to layout the circuit first on paper --- I changed this when I was actually soldering to add another spacer row to have a little more room.
 
+Note: I would rather do this with connectors than straight soldering --- but I had ordered a bunch of connectors, and apparently someone swiped them from my porch.
+
 ![imag0134](https://cloud.githubusercontent.com/assets/5296671/7614789/bc1ad1fa-f95e-11e4-8228-b8452e8a2fdb.jpg)
 ![imag0129](https://cloud.githubusercontent.com/assets/5296671/7614794/c76d876e-f95e-11e4-888b-641c197c5a95.jpg)
 
