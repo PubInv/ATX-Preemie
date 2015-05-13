@@ -1,3 +1,6 @@
+I've followed this excellent tutorial: http://bildr.org/2012/03/rfp30n06le-arduino/
+to make a controllwer for the Latrine Fan.
+
 It took literally an entire day, but I soldered together a MOSFET controller that now works.  I had a loose wire that 
 costs me about 3 hours of figuring to understand.
 
