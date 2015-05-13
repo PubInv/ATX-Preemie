@@ -12,7 +12,7 @@ This fan is from Thermaltake cand cost about $20 from Radio Shack:
 
 http://bildr.org/blog/wp-content/uploads/2012/03/rfp30n06le-arduino-motor.png
 
-With a 6volt lantern battery.  Unfortunately, the fan I bought does NOT work with 12 V! Curses, I bought the wrong fan!  I tried to hook up two lantern batteries in series, but couldn't run the fan that way.  However, I am confident the MOSFET switching will let us switch a 12 V or higher power supply.
+With a 6volt lantern battery.  Unfortunately, the fan I bought does NOT work with 12 V! Curses, I bought the wrong fan!  I tried to hook up two lantern batteries in series, but couldn't run the fan that way.  However, I am confident the MOSFET switching will let us switch a 12 V or higher power supply. [Correction: The fan does work with 12V, I had a bad battery.
 
 Here is a photo of the set up:
 
