@@ -11,6 +11,8 @@ In the picture, the sensor is the little mesh covered gadget on the left side of
 However, this box does demonstrate that we an switch almost any amount of power with an Arduino combined with a tiny MOSFET
 circuit. The Fan is driven by a 6V - 12V battery, and draws far more current than the Arduino itself can provide.
 
+This is a physical implementation of the circuit and system described in an excellent (BILDR tutorial)[http://bildr.org/2012/03/rfp30n06le-arduino/], with the added complexity of a sensor circuit.
+
 I've described the MOSFET circuit board elsewhere in this repo---here is a picture of it inside a container I bought from The Container Store and drilled out.  The container is really to big, but the MOSFET has a tall heat sink on it.
 
 ![imag0140](https://cloud.githubusercontent.com/assets/5296671/7643872/2aa1f87e-fa63-11e4-9f56-54803d608631.jpg)
@@ -23,5 +25,11 @@ Moreover, this system is very similar to the Incubator project, which I view as 
 
 
 ![imag0139](https://cloud.githubusercontent.com/assets/5296671/7643870/2a9f7004-fa63-11e4-83f2-9ecec59a7c63.jpg)
+
+Not a little bit of trickiness here: I've soldered the sensor directly to a resistor connected across ground as required by this kind of sensor.  Rather than creating ANOTHER circuit board, I've jammed the resistor into both the GND and Analog Input 0 pin on the Arduino.
+
+
+
+
 
 ![imag0141](https://cloud.githubusercontent.com/assets/5296671/7643873/2aa2720e-fa63-11e4-8b0e-a919ef6a39fa.jpg)
