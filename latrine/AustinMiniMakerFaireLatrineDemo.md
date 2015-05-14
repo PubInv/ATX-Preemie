@@ -26,10 +26,14 @@ Moreover, this system is very similar to the Incubator project, which I view as 
 
 ![imag0139](https://cloud.githubusercontent.com/assets/5296671/7643870/2a9f7004-fa63-11e4-83f2-9ecec59a7c63.jpg)
 
-Not a little bit of trickiness here: I've soldered the sensor directly to a resistor connected across ground as required by this kind of sensor.  Rather than creating ANOTHER circuit board, I've jammed the resistor into both the GND and Analog Input 0 pin on the Arduino.
+Note a little bit of trickiness here: I've soldered the sensor directly to a resistor connected across ground as required by this kind of sensor.  Rather than creating ANOTHER circuit board, I've jammed the resistor into both the GND and Analog Input 0 pin on the Arduino.
 
 
 
 
 
 ![imag0141](https://cloud.githubusercontent.com/assets/5296671/7643873/2aa2720e-fa63-11e4-8b0e-a919ef6a39fa.jpg)
+
+I feel like this was an enormous amount of work for the coolness acheived, which is minimal. However, I started as a beginner.  The biggest lesson that I am learning is both the difficulty and the importance of physical packaging. As lame as this is, it is FAR better than a bread-board based solution. 
+
+This basic hardware set up could be reused to control any number of gadgets that require far more power than the Arduino itself can provide (which is about 500 millamps for the [Arduino UNO R3](http://www.arduino.cc/en/Main/ArduinoBoardUno), but actually less than that is usable power for powering other devices.)
