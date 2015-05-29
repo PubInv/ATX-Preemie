@@ -16,3 +16,5 @@ of an electronic warmer, and explore other inexpensive, low-cost solutions.
 This project offers opportunities for internet research, sewing, very simple chemistry, Arduino programming, and
 construction of electronics. We will adjust what we work on to fit your skills and interest. This is a great way to learn
 some hardware hacking! A list of potential stories to accomplish has been published at the EWB GitHub [Repository](https://github.com/PIFAH/EWB/issues).
+
+See most of our pictures and documentation [here](https://github.com/PIFAH/EWB/blob/master/incubator/STORIES.md)
