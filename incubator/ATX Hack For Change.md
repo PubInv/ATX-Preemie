@@ -18,3 +18,5 @@ construction of electronics. We will adjust what we work on to fit your skills a
 some hardware hacking! A list of potential stories to accomplish has been published at the EWB GitHub [Repository](https://github.com/PIFAH/EWB/issues).
 
 See most of our pictures and documentation [here](https://github.com/PIFAH/EWB/blob/master/incubator/STORIES.md)
+
+Note that this project is similar in goals to one done by students at Rice University, [IncuBaby](https://www.youtube.com/watch?v=0VaYNRd7NA4&feature=youtu.be)
