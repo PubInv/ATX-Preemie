@@ -2,6 +2,8 @@
 
 This is a directory to contain documentation on our work attempting to build an incubator for premature infants.
 
+We are currently championing a project at [ATX Hack for Change](http://atxhackforchange.org/schedule/), please see our [informational file](https://github.com/PIFAH/EWB/blob/master/incubator/ATX%20Hack%20For%20Change.md) on that project.
+
 
 We are working on an inexpensive incubator to keep premature infants at healthy temperature.
 
