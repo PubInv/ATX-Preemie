@@ -2,6 +2,8 @@
 
 Hack Hardware for Change!
 
+We need researchers, Arduino programmers, electrical engineers, people who can sew, people who can think, and writers!
+
 Each year many premature babies die due to lack of adequate care.  Perhaps the biggest contributor to this and the
 easiest to fix is the fact that premature babies have trouble regulating their own body temperature and staying warm.
 
