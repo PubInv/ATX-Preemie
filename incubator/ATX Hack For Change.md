@@ -22,3 +22,18 @@ some hardware hacking! A list of potential stories to accomplish has been publis
 See most of our pictures and documentation [here](https://github.com/PIFAH/EWB/blob/master/incubator/STORIES.md)
 
 Note that this project is similar in goals to one done by students at Rice University, [IncuBaby](https://www.youtube.com/watch?v=0VaYNRd7NA4&feature=youtu.be)
+
+* * * 
+
+# Experiments at the Hackathon
+
+At the Hackathon, Cameron built a beautiful warmer.  We tried it with our test Preemie. With a 12V power supply, the temperature was:
+
+* 21.29C at 3:19 and
+* 23.24C at 3:38
+
+Which is pretty bad.  We unwrapped it.  Part of the problem was that the heat was blocked by the way I swaddled it, but that should be expected in the field.  A bigger problem is that the doll itself is a very poor heat conductor.  We then replaced the doll with a "cold compress" and repeated the experiment.  The temperature sensor was placed on top of the doll.
+
+Data:
+* 24.71C at 3:42
+* 
