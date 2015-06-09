@@ -1,3 +1,5 @@
+# ATX Preemie Warmer Swaddle, v 0.1
+
 This pattern and tutorial was designed to come up with a simple, low-cost insukated swaddle blanket with a pocket for a portable heating element for preterm babies in the developing world. The pictures in this model show a blanket made with two pieces of plain cotton fabric, one scrap piece of black felt, and an old flannel t-shirt. The design was made with the ability to be made with 2 Adult Large t-shirts and an old shoelace. The body of the t-shirts could be layered as desired for insulation and the pocket could be made out of a sleeve of one of the t-shirts. 
 
 This design was created at the ATX Hack for Change in Austin, Texas. The design was created by Cameron Lagrone. Feel free to contact Cameron at Cameron.Lagrone@gmail.com with any questions. 
