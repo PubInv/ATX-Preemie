@@ -41,3 +41,5 @@ At 12:38, duty cycle is 0.22!!
 
 At 1:18, duty cycle is 0.28.  I consider this a very successful result!  This has to be included in the basic design.
 
+At this rate, we are consuming 0.28 * 12 watts or 3.36 watts.
+
