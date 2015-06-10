@@ -26,3 +26,9 @@ Note that two AA batteries can get us to 3 Watthours.  With my recent insulation
 
 It is possible that external battery packs could be a good option.
 
+http://www.amazon.com/Anker-Astro-Lipstick-Sized-Portable-Technology/dp/B005X1Y7I2/ref=lp_2407758011_1_3?s=wireless&ie=UTF8&qid=1433962233&sr=1-3
+
+That claims to be 3.2 Ah at 3.7 volts, for 11.84 Watt hours!  If we could charge one like that it would be really tremendous!
+
+We need to figure out how to get that power USB interface!  Note also that if we can do maintenance of power at lower voltage, we might be able to charge the Arduino AND power this (though we will still need a separate circuit!)
+
