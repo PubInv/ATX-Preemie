@@ -22,3 +22,5 @@ Oliver/Yoel/Aly: To test the system and measure the swaddles insulationg ability
 Cameron: If no battery power is avaliable, the swaddle is still a convenient way to hold, carry, and transport the baby 
 when not in the mother's arms.  We support the "Kangaroo Care" model of infant care, but want to give health care workers
 an inexpensive option when the mother is sick or incapacitated or for transport to a better clinic. 
+
+Note: This script can currently be read in 2:00 minutes.  We need to expand links to various systems.
