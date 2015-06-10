@@ -44,4 +44,5 @@ At 1:18, duty cycle is 0.28.  I consider this a very successful result!  This ha
 At this rate, we are consuming 0.28 * 12 watts or 3.36 watts.
 
 At 1:35 switched to 6 volts to see if we can maintain temperature at that level, which is 3.42 Watts, and 0.569A.
+Note: At 1:58, still maintaining temperature at 6 volts, but with no power to spare!
 
