@@ -16,6 +16,9 @@ Josh: To increase the safety and robustness of the system, we implemented a audi
 or too high.  The temperature is read from a sensor at the baby's tummy, which costs 95 cents. We are researching better
 temperature sensors and ways to make the system safer.
 
+Oliver/Yoel/Aly: To test the system and measure the swaddles insulationg ability, we had the Arduino write the temperature to a serial port and collected the data using the IBM NodeRed system. This system is valuable for testing and training, even if it will not be used in the field in all cases. The NodeRed system could in theory make emergency cell phone calls to health practitioners based on alarm conditions.
+
+
 Cameron: If no battery power is avaliable, the swaddle is still a convenient way to hold, carry, and transport the baby 
 when not in the mother's arms.  We support the "Kangaroo Care" model of infant care, but want to give health care workers
-an inexpensive option when the mother is sick or incapacitated or for transport to a better clinic.
+an inexpensive option when the mother is sick or incapacitated or for transport to a better clinic. 
