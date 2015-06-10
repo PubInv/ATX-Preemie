@@ -46,3 +46,8 @@ At this rate, we are consuming 0.28 * 12 watts or 3.36 watts.
 At 1:35 switched to 6 volts to see if we can maintain temperature at that level, which is 3.42 Watts, and 0.569A.
 Note: At 1:58, still maintaining temperature at 6 volts, but with no power to spare!
 
+At 3:49, Temperature holding steady at 31 to 32C, with 100% duty cycle.  Seemingly we are just about in equilibrium.  Presumably we need a steady 3.43 watts.  I wonder if the baby breathing increases the demand?
+
+At 3:52 trying "solarize" almunized cloth.
+
+
