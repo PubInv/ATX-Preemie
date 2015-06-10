@@ -32,3 +32,6 @@ June 10, 2015
 
 Starting at 10:29, placed two sheets of foam core under heating pad (within pocket.)
 Temperature started at 20.31.  My goal is to run till steady state and hope duty cycle has gone down.
+
+30.C at 11:35.  (This is a greater rise than we got last night, initially suggesting that the insulation is valuable.)
+
