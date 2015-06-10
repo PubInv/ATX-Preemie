@@ -38,3 +38,6 @@ Temperature started at 20.31.  My goal is to run till steady state and hope duty
 By 12:16 (but proably before) we were in a steady state, and I began doing the duty cycle computtation, which I will let run for an hour.  My supposition is that it will be less than 0.66.
 
 At 12:38, duty cycle is 0.22!!
+
+At 1:18, duty cycle is 0.28.  I consider this a very successful result!  This has to be included in the basic design.
+
