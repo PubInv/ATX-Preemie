@@ -35,3 +35,5 @@ Temperature started at 20.31.  My goal is to run till steady state and hope duty
 
 30.C at 11:35.  (This is a greater rise than we got last night, initially suggesting that the insulation is valuable.)
 
+By 12:16 (but proably before) we were in a steady state, and I began doing the duty cycle computtation, which I will let run for an hour.  My supposition is that it will be less than 0.66.
+
