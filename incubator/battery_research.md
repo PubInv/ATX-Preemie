@@ -21,3 +21,8 @@ Not that I am not 100% sure of this calculation.
 
 Also, a small improve in insultation could greatly affect this.  Furthermore, the heat production of the infant itself could 
 help us.
+
+Note that two AA batteries can get us to 3 Watthours.  With my recent insulation results, this could be almost enough.
+
+It is possible that external battery packs could be a good option.
+
