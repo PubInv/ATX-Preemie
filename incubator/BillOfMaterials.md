@@ -2,6 +2,9 @@
 
 Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The physical design is rapidly evolving.
 
+Note further that this is the cost to "order everything and build one for myself".  Producing in quantities greater than one would decrease the cost.  We are actively desiging ways to decrease cost.
+
+Note that every component neded to build the electronics this (except heathing pad, wire and prototype board), including breadboarding capability, can be purchased in the (Arduino Experimenter's Kit)[http://www.adafruit.com/product/170] for $85.
 
 <table style="width:100%">
   <tr>
