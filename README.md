@@ -12,7 +12,7 @@ Robert L. Read developed a prototype, and then led a team to improve it a the [A
 
 Although still in a development phase, the project seems worth continuing. We are seeking team members to help with this project.
 
-In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project. The issues represent a variety of valuble ways to hack this project forward.
+In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project. The [issues](https://github.com/PIFAH/ATX-Preemie/issues) represent a variety of valuble ways to hack this project forward.
 
 If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me and lets figure out how you can have fun helping with this project.
 
