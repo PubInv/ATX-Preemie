@@ -32,13 +32,24 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
   </tr>
   <tr>
     <td>Arduino UNO</td>
-    <td>$25</td> 
+    <td>$24.95</td> 
     <td><a href="http://www.adafruit.com/products/50">http://www.adafruit.com/products/50</a></td>
   </tr>
   <tr>
     <td>Heating Blanket</td>
-    <td>$5</td> 
+    <td>$4.95</td> 
     <td><a href="https://www.sparkfun.com/products/11289">https://www.sparkfun.com/products/11289</a></td>
+  </tr>
+    <tr>
+    <td>Arduino package box</td>
+    <td>$7.95</td> 
+    <td><a href="https://www.sparkfun.com/products/12838">https://www.sparkfun.com/products/12838</a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td>TMP36 temperature sensor</td>
+    <td>$1.50</td> 
+    <td><a href="https://www.sparkfun.com/products/10988">https://www.sparkfun.com/products/10988</a> (but cheaper at other sites)</td>
   </tr>
     <tr>
     <th>Power</th>
