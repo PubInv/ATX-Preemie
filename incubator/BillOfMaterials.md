@@ -2,12 +2,6 @@
 
 Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The physical design is rapidly evolving.
 
-* The Swaddle
-** Two large, soft cotten pieces, such as adult T-Shirts
-** A shoestring or piece of string
-* The Electronics
-* The Power
-* The Test Accessories
 
 <table style="width:100%">
 <tr>
@@ -40,5 +34,21 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>Heating Blanket</td>
     <td>$5</td> 
     <td><a href="https://www.sparkfun.com/products/11289">https://www.sparkfun.com/products/11289</a></td>
+  </tr>
+    <tr>
+    <th>Power</th>
+  </tr>
+  <tr>
+    <td>2 6-volt spring-terminal lantern batteries</td>
+    <td>$12</td> 
+    <td></td>
+  </tr>
+     <tr>
+    <th>Testing and Development</th>
+  </tr>
+  <tr>
+    <td>A Computer</td>
+    <td>$500</td> 
+    <td>for programming Arduino</td>
   </tr>
 </table>
