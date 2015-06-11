@@ -4,13 +4,13 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
 
 
 <table style="width:100%">
-<tr>
-    <th>Swaddle</th>
-  </tr>
   <tr>
     <th>Item</th>
     <th>Cost</th> 
     <th>Comment</th>
+  </tr>
+  <tr>
+    <th>Swaddle</th>
   </tr>
   <tr>
     <td>Two large pieces of cotton</td>
