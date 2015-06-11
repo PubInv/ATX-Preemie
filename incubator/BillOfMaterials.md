@@ -86,4 +86,14 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$100</td> 
     <td>This includes solder and general supplies</td>
   </tr>
+     <tr>
+    <td>Multimeter</td>
+    <td>$100</td> 
+    <td>Prices vary widely</td>
+  </tr>
+      <tr>
+    <td>Power Supply</td>
+    <td>$100 - $800</td> 
+    <td>Optional, but very helpful</td>
+  </tr>
 </table>
