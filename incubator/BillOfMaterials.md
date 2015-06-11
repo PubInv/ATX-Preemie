@@ -33,3 +33,16 @@ The Swaddle
 <td>
 </td>
 </table>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
