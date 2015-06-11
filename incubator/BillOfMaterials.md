@@ -45,11 +45,20 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$7.95</td> 
     <td><a href="https://www.sparkfun.com/products/12838">https://www.sparkfun.com/products/12838</a></td>
   </tr>
-    </tr>
     <tr>
     <td>TMP36 temperature sensor</td>
     <td>$1.50</td> 
     <td><a href="https://www.sparkfun.com/products/10988">https://www.sparkfun.com/products/10988</a> (but cheaper at other sites)</td>
+  </tr>
+      <tr>
+    <td>N-Channel MOSFET Power Transistor</td>
+    <td>$0.95</td> 
+    <td><a href="https://www.sparkfun.com/products/10213">https://www.sparkfun.com/products/10213</a></td>
+  </tr>
+        <tr>
+    <td>Flyback Diode</td>
+    <td>$0.15</td> 
+    <td><a href="https://www.sparkfun.com/products/8589">https://www.sparkfun.com/products/8589</a></td>
   </tr>
     <tr>
     <th>Power</th>
