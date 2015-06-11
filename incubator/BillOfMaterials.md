@@ -34,7 +34,7 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
   <tr>
     <td>Arduino UNO</td>
     <td>$25</td> 
-    <td></td>
+    <td><a href="http://www.adafruit.com/products/50">http://www.adafruit.com/products/50</a></td>
   </tr>
   <tr>
     <td>Heating Blanket</td>
