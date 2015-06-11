@@ -124,6 +124,11 @@ Note that every component neded to build the electronics this (except heathing p
     <td>$100</td> 
     <td>This includes solder and general supplies</td>
   </tr>
+    <tr>
+    <td>Safety Goggles</td>
+    <td>$15</td> 
+    <td>Must have for soldering, but no breadboarding</td>
+  </tr>
      <tr>
     <td>Multimeter</td>
     <td>$100</td> 
