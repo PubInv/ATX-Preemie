@@ -9,40 +9,20 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
 * The Power
 * The Test Accessories
 
-| The Swaddle  |   |
-|---|--:|
-| Two large, soft pieces of cotton fabric, such as used adult T-Shirts  | $1  |
-| The Electronics  |   |
-|---|--:|
-|   |   |
-| The Power  |   |
-|---|--:|
-|   |   |
-| The Testing  |   |
-|---|--:|
-|   |   |
-
-<table>
-<td>
-<tr>
-The Swaddle
-</tr>
-<tr>
-</tr>
-</td>
-<td>
-</td>
-</table>
-
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Points</th>
+    <th>Item</th>
+    <th>Cost</th> 
+    <th>Comment</th>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Two large pieces of cotton</td>
+    <td>$2</td> 
+    <td>Possibly used T-shirts</td>
+  </tr>
+  <tr>
+    <td>Shoestring</td>
+    <td>$0.50</td> 
+    <td>Other cordage would do</td>
   </tr>
 </table>
