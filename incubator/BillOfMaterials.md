@@ -39,6 +39,6 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
   <tr>
     <td>Heating Blanket</td>
     <td>$5</td> 
-    <td></td>
+    <td><a href="https://www.sparkfun.com/products/11289">https://www.sparkfun.com/products/11289</a></td>
   </tr>
 </table>
