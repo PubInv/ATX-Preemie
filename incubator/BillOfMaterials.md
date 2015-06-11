@@ -27,6 +27,11 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$0.50</td> 
     <td>Other cordage would do</td>
   </tr>
+   <tr>
+    <td>Sum:</td>
+    <td>$3.50</td> 
+    <td>Highly variable</td>
+  </tr>
   <tr>
     <th>Electronics</th>
   </tr>
@@ -84,6 +89,11 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>10K Ohm pull-down resistors</td>
     <td>$0.25</td> 
     <td><a href="https://www.sparkfun.com/products/8374">https://www.sparkfun.com/products/8374</a> (used-for pull-down and pull-up for sensors</td>
+  </tr>
+     <tr>
+    <td>Sum:</td>
+    <td>$49.65</td> 
+    <td>This is the build-one-prototype cost</td>
   </tr>
     <tr>
     <th>Power</th>
