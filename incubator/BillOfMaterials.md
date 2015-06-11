@@ -11,7 +11,7 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
 
 <table style="width:100%">
 <tr>
-    <th>Swaddle</th>
+    <th rowspan="2">Swaddle</th>
   </tr>
   <tr>
     <th>Item</th>
