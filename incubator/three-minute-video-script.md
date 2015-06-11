@@ -23,4 +23,6 @@ Cameron: If no battery power is avaliable, the swaddle is still a convenient way
 when not in the mother's arms.  We support the "Kangaroo Care" model of infant care, but want to give health care workers
 an inexpensive option when the mother is sick or incapacitated or for transport to a better clinic. 
 
-Note: This script can currently be read in 2:00 minutes.  We need to expand links to various systems.
+Rob/Aly:
+
+The ATX Preemie Warmer is not ready to save lives. This is the first version. However, we have published the complete bill of materials, source code, instructions, circuits, photos, experiments and our experience to allow another team to duplicate our work and make improvements to this open-source mixed hardware and software project.
