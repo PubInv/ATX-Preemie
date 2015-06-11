@@ -14,5 +14,5 @@ Although still in a development phase, the project seems worth continuing. We ar
 
 In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project. The [issues](https://github.com/PIFAH/ATX-Preemie/issues) represent a variety of valuble ways to hack this project forward.
 
-If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me (Robert L. Read, <read.robert@gmail.com>) and lets figure out how you can have fun helping with this project.
+If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me (Robert L. Read, <read.robert@gmail.com>, @RobertLRead) and lets figure out how you can have fun helping with this project.
 
