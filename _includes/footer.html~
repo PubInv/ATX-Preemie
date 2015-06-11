@@ -1,0 +1,19 @@
+<footer>
+  <div class="row">
+
+    <div class="large-8 large-centered columns">
+
+      <ul class="inline-list">
+
+      <li><a href="http://whitehouse.gov/innovationfellows/">Presidential Innovation Fellows program</a></li>
+      <li><a href="http://18f.gsa.gov">18F</a></li>
+      </ul>
+
+    </div>
+
+  </div><!--/row -->
+</footer>
+
+
+</body>
+</html>
