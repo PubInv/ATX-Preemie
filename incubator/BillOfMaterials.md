@@ -10,6 +10,9 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
 * The Test Accessories
 
 <table style="width:100%">
+<tr>
+    <th>Swaddle</th>
+  </tr>
   <tr>
     <th>Item</th>
     <th>Cost</th> 
