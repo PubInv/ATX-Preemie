@@ -1,28 +1,18 @@
-# EWB
+# ATX Preemie Warmer v 0.1 Alpha
 
-This repository is to hold work done by [Engineers Without Borders, Greater Austin Chapter](http://ewbgreateraustin.org), particularly for the instrumentation group.
+Every year across the world, many low-birth weight babies die, in part because they do not have access to advanced medicine.
 
-We welcome questions and participation.
+This is an open-source hardware and software project to try to address this problem.
 
-There is a directory for each project.
+The project is begin addressed by [Embrace Global](http://embraceglobal.org). However, that project supports a for-profit company, and it is not an open-source solution. 
 
-Note that much of the work here involves the schematics for the circuits that we are using, rather than just the Arduino code.  We have not yet written up nice circuit diagrams but will be doing that if it becomes valuable enough.
+An Arduino-based, heating pad-style solution was originally suggested by Stewart Holloway of the Austin Chapter of Engineers without Borders.
 
-## Project: Latrine Fan
+Robert L. Read developed a prototype, and then led a team to improve it a the [ATX Hack for Change](http://publicinvention.blogspot.com/2015/06/report-atx-hack-for-change-2015-preemie.html) Hackathon.
 
-We are builing a latrine for a local organic farm [organization](http://ewbgreateraustin.org/news/amplifyatx-with-farmshare-and-ewb/). The Instrumentation group in particular is prototyping a gas-sensor activated fan.
+Although still in a development phase, the project seems worth continuing. We are seeking team members to help with this project.
 
+In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project. The issues represent a variety of valuble ways to hack this project forward.
 
-The photo https://github.com/PIFAH/EWB/blob/master/SenseAndReact.jpg is a sorry substitute for a schematic, but this circuit is in such a prototype form and is such a simple modification of work from the Arduino Experimenter's kit that it is not worth documenting more fully.
-
-After a proper burn-in period I was able to get MQ2 and MQ6 gas sensors wroking.  I previously had the "sense-and-react" code working with a pressure sensor, but now in theory we could make it work with the gas sensors.
-
-## Project: Premature Infant Incubator
-
-Please see the project directory: https://github.com/PIFAH/EWB/tree/master/incubator
-
-
-## Project: Soil Moisture Sensor
-
-The team, or possibly just Anjan, has developed a soil moisture sensor.
+If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me and lets figure out how you can have fun helping with this project.
 
