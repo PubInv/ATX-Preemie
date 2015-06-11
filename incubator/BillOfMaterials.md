@@ -60,6 +60,16 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$0.15</td> 
     <td><a href="https://www.sparkfun.com/products/8589">https://www.sparkfun.com/products/8589</a></td>
   </tr>
+       <tr>
+    <td>Wire</td>
+    <td>$5</td> 
+    <td><a href="https://www.sparkfun.com/products/8023">https://www.sparkfun.com/products/8023</a></td>
+  </tr>
+        <tr>
+    <td>Solderable Protoboard</td>
+    <td>$1.50</td> 
+    <td><a href="https://www.sparkfun.com/products/8808">https://www.sparkfun.com/products/8808</a></td>
+  </tr>
     <tr>
     <th>Power</th>
   </tr>
