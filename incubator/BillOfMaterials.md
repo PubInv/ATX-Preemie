@@ -11,7 +11,7 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
 
 <table style="width:100%">
 <tr>
-    <th rowspan="2">Swaddle</th>
+    <th>Swaddle</th>
   </tr>
   <tr>
     <th>Item</th>
@@ -29,18 +29,16 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>Other cordage would do</td>
   </tr>
   <tr>
-    <th>Item</th>
-    <th>Cost</th> 
-    <th>Comment</th>
+    <th>Electronics</th>
   </tr>
   <tr>
-    <td>Two large pieces of cotton</td>
-    <td>$2</td> 
-    <td>Possibly used T-shirts</td>
+    <td>Arduino UNO</td>
+    <td>$25</td> 
+    <td></td>
   </tr>
   <tr>
-    <td>Shoestring</td>
-    <td>$0.50</td> 
-    <td>Other cordage would do</td>
+    <td>Heating Blanket</td>
+    <td>$5</td> 
+    <td></td>
   </tr>
 </table>
