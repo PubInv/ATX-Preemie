@@ -67,4 +67,9 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$500</td> 
     <td>for programming Arduino</td>
   </tr>
+    <tr>
+    <td>Sewing Machine</td>
+    <td>$300</td> 
+    <td>Or needle and thread: $2</td>
+  </tr>
 </table>
