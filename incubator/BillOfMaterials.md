@@ -17,6 +17,11 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$2</td> 
     <td>Possibly used T-shirts</td>
   </tr>
+    <tr>
+    <td>Batting or insulation, more cotton</td>
+    <td>$1</td> 
+    <td>Felt works well for this</td>
+  </tr>
   <tr>
     <td>Shoestring</td>
     <td>$0.50</td> 
