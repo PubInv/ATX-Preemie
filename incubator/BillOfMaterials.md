@@ -81,4 +81,9 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$300</td> 
     <td>Or needle and thread: $2</td>
   </tr>
+    <tr>
+    <td>Soldering Station</td>
+    <td>$100</td> 
+    <td>This includes solder and general supplies</td>
+  </tr>
 </table>
