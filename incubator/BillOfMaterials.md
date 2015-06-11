@@ -65,10 +65,25 @@ Note that this is for what I am calling "ATX Preemie Warmer v. 0.1 Alpha".  The 
     <td>$5</td> 
     <td><a href="https://www.sparkfun.com/products/8023">https://www.sparkfun.com/products/8023</a></td>
   </tr>
-        <tr>
+    <tr>
     <td>Solderable Protoboard</td>
     <td>$1.50</td> 
     <td><a href="https://www.sparkfun.com/products/8808">https://www.sparkfun.com/products/8808</a></td>
+  </tr>
+    <tr>
+    <td>Aligator Clips</td>
+    <td>$0.50</td> 
+    <td><a href="https://www.sparkfun.com/products/111">https://www.sparkfun.com/products/111</a></td>
+  </tr>
+      <tr>
+    <td>Piezo speaker</td>
+    <td>$1.95</td> 
+    <td><a href="https://www.sparkfun.com/products/7950">https://www.sparkfun.com/products/7950</a></td>
+  </tr>
+  <tr>
+    <td>10K Ohm pull-down resistors</td>
+    <td>$0.25</td> 
+    <td><a href="https://www.sparkfun.com/products/8374">https://www.sparkfun.com/products/8374</a> (used-for pull-down and pull-up for sensors</td>
   </tr>
     <tr>
     <th>Power</th>
