@@ -52,5 +52,7 @@ At 3:52 trying "solarize" almunized cloth.
 
 At 5:18, still holding body temperature at 31 to 32C, but has not shut off.  Is requiring 3.43 Watts.  I deem the solar film experiment a failure.
 
+At 10:59 it was still holding temperature, and duty cycle was the same.
+
 
 
