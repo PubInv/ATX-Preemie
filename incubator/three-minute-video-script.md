@@ -9,8 +9,8 @@ head while leaving the face open. In the back of the swaddle is a pocket for the
 
 Rob: The heating cloth is powered with the kind of minimal battery power potentially avialable to people that don't have 
 grid power, but have the ability to charge cell-phone batteries. The cloth is controlled by the extremely popular Arduino 
-microcontroller, which can be purchased for as little as $5 dollars.  Currently our total bill-of-materials costs about $30,
-and we are striving to lower that.
+microcontroller, which can be purchased for as little as $5 dollars.  Currently our total bill-of-materials costs about $49,
+but that can be easily decreased.
 
 Josh: To increase the safety and robustness of the system, we implemented a audible alarm when the temperature is too low
 or too high.  The temperature is read from a sensor at the baby's tummy, which costs 95 cents. We are researching better
