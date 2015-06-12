@@ -37,12 +37,16 @@ Step 6: Place pocket fold side down on the inner lining of the blanket fabric, a
 
 ![pocketwithheater](https://cloud.githubusercontent.com/assets/5296671/8067516/d29154c6-0eb3-11e5-8508-5ed4c3776e88.png)
 
-Step 7: Sew blanket fabrics together. Make sure to place inner lining/insulation on the outside. Place inside of inner fabric against the outside of the outer fabric. Sew along outside edge of fabrics leaving 2 or 3 inch opening.  Turn blanket inside out and finish opening with a hidden stitch. 
+Step 7: Cut two rectangular pieces of foam core or other solid insulating material, such as corrugated cardboard. These fit into the pocket with the heating cloth on top of them.  Be sure that the heating cloth is close to the baby with the insulation on the back.
+
+![imag0195](https://cloud.githubusercontent.com/assets/5296671/8139644/d81fdebc-111a-11e5-8fe5-cca181d41683.jpg)
+
+Step 8: Sew blanket fabrics together. Make sure to place inner lining/insulation on the outside. Place inside of inner fabric against the outside of the outer fabric. Sew along outside edge of fabrics leaving 2 or 3 inch opening.  Turn blanket inside out and finish opening with a hidden stitch. 
 
 ![hoodiestring](https://cloud.githubusercontent.com/assets/5296671/8067512/d283b2bc-0eb3-11e5-898e-a34ab6c9dd2b.png)
 
 
-Step 8: Cut small slots on the bottom of the hood. Sew a ¼ inch wide channel around outside of hood edge and thread a shoelace or other string through channel to create a drawstring. 
+Step 9: Cut small slots on the bottom of the hood. Sew a ¼ inch wide channel around outside of hood edge and thread a shoelace or other string through channel to create a drawstring. 
 
 
 ![finalinterior](https://cloud.githubusercontent.com/assets/5296671/8067513/d283f222-0eb3-11e5-9f94-281a0997a408.png)
