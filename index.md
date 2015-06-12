@@ -41,7 +41,7 @@ We may not actively work on the next version (0.2 Alpha) until we get validation
 
 ## Duplication and Getting Involved
 
-In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project.  We are currently endeavoring to make it entirely possible to completely reproduce this work.
+In the [ATX-Preemie repo](https://github.com/PIFAH/ATX-Preemie), you will find a wealth of information about both the hardware, sewing, and software components of the project.  We are currently endeavoring to make it entirely possible to completely reproduce this version of the Warmer. As with all open source projects, please contribute by contacting us, or by making a [pull-request](https://help.github.com/articles/using-pull-requests/).
 
 * Complete [Bill of Materials](https://github.com/PIFAH/ATX-Preemie/blob/master/BillOfMaterials.md).
 * Sewing [instructions](https://github.com/PIFAH/ATX-Preemie/blob/master/ATXPreemieWarmerSwaddleInstructions.md) for making the swaddle.
