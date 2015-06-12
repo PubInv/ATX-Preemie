@@ -37,9 +37,22 @@ Version 0.1 Alpha of the ATX Preemie Warmer:
 Although partically successful in the sense that it is working and inexpensive, many obstacles exist to deploying this in a way that actually saves lives.
 We have spoken to three medical professionals with experience in developing nations. They are somewhat skeptical of the usefulness of this device.  Our most pressing need right now is for more discussion with experienced health professionals to learn if, and how, the ATX Preemie Warmer could be a practical benefit. If you have relevant knowledge or experience, please contact us.
 
+We may not actively work on the next version (0.2 Alpha) until we get validation from medical personnel or additional volunteers excited about the project---so if you are interested in this project, please contact us.
+
 ## Duplication and Getting Involved
 
 In this repo, you will find a wealth of information about both the hardware, sewing, and software components of the project.  We are currently endeavoring to make it entirely possible to completely reproduce this work.
+
+* Complete [Bill of Materials](https://github.com/PIFAH/ATX-Preemie/blob/master/BillOfMaterials.md).
+* Sewing [instructions](https://github.com/PIFAH/ATX-Preemie/blob/master/ATXPreemieWarmerSwaddleInstructions.md) for making the swaddle.
+* Arduino [code](https://github.com/PIFAH/ATX-Preemie/blob/master/IncubatorRelayV0.4.ino) for the Incubator.
+* Arduino [code](https://github.com/PIFAH/ATX-Preemie/blob/master/Artificial_Infant.ino) for Artificial Test Preemie.
+* Python [code](https://github.com/PIFAH/ATX-Preemie/blob/master/arduino_read.py) for recording temperature over time.
+* [Notes](https://github.com/PIFAH/ATX-Preemie/blob/master/MOSFET_incubator_circuit.md) on the construction of the MOSFET power control circuit
+* [Notes](https://github.com/PIFAH/ATX-Preemie/blob/master/heat_swaddle_experiment_notes.md) on our experiments keeping a heat mass at body temperature with low power.
+* [Configuration](https://github.com/PIFAH/ATX-Preemie/blob/master/Incubator_node_red_flow.txt) file for NodeRed, used during our hackathon to record data.
+* [Research](https://github.com/PIFAH/ATX-Preemie/blob/master/battery_research.md) into batteries.
+* [Ideas](https://github.com/PIFAH/ATX-Preemie/blob/master/ideas.md), especially for the next version.
 
 If you want to potentially save lives, empower people with limited resources, and have fun building Arduino projects, please contact me (Robert L. Read, <read.robert@gmail.com>, @RobertLRead) and lets figure out how you can have fun helping with this project. The [issues](https://github.com/PIFAH/ATX-Preemie/issues) represent a variety of valuble ways to hack this project forward.
 
