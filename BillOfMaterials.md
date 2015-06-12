@@ -25,6 +25,11 @@ Note that every component neded to build the electronics this (except heathing p
     <td>$1</td> 
     <td>Felt works well for this</td>
   </tr>
+     <tr>
+    <td>1/2 of foam core or corrugated cardboard</td>
+    <td>$0.10</td> 
+    <td>/td>
+  </tr>
   <tr>
     <td>Shoestring</td>
     <td>$0.50</td> 
