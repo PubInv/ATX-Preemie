@@ -25,6 +25,14 @@ An Arduino-based, heating pad-style solution was originally suggested by Stewart
 
 Robert L. Read developed a prototype, and then led a team to improve it a the [ATX Hack for Change](http://publicinvention.blogspot.com/2015/06/report-atx-hack-for-change-2015-preemie.html) Hackathon.
 
+![imag0193](https://cloud.githubusercontent.com/assets/5296671/8139635/c4ecdfe8-111a-11e5-9b13-d6a04c1e1871.jpg)
+
+The photo above depicts all the components of the ATX Preemie Warmer.  The cloth swaddle is easily made from cotton
+cloth or even old t-shirts and a shoestring.  The Arduino uses a temperature sensor to control battery power to the a heating cloth.  As little as 6 Volts is sufficient.  We are aiming for the level of battery power that people in the developing world use to charge cell phones.
+Two simple pieces of foam core placed beneath the heating cloth in the plaid pocket insulate the back of the system, making it far more power efficient.
+
+We use the doll as a test object, as well as baggies full of water to represent realistic thermal masses.
+
 ## Status
 
 Version 0.1 Alpha of the ATX Preemie Warmer:
