@@ -1,5 +1,5 @@
 Rob: Every year, more than a hundred thousand babies that are born prematurely die preventably due to a lack of
-Western medicine. Of the many challenges they face, maintaining bodyheat is one of the most important and easy to address.
+Western medicine. Of the many challenges they face, maintaining body heat is one of the most important and easiest to address.
 Others are addressing this problem with different approaches, but we are are trying to make a open-source system that 
 anyone can freely build and improve upon.
 
