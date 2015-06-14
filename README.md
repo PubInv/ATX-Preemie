@@ -1,5 +1,7 @@
 # ATX Preemie Warmer v 0.1 Alpha
 
+Our better informational page is [here](http://pifah.github.io/ATX-Preemie/).
+
 Every year across the world, many low-birth weight babies die, in part because they do not have access to advanced medicine.
 
 This is an open-source hardware and software project to try to address this problem.
