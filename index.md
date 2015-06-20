@@ -13,6 +13,8 @@ Every year across the world, many low-birth weight babies die, in part because t
 
 The ATX Preemie Warmer project is an open-source hardware and software project to try to address this problem. All work here is sharable under the GPL (for source code) or the Creative Commons Share Alike license (for hardware designs).
 
+Our three-minute video is a good <a href="https://youtu.be/zb-F0qTptJs">introduction</a>.
+
 The ATX Preemie Warmer may be valuable:
 
 * When [Kangaroo Care](https://en.wikipedia.org/wiki/Kangaroo_care) is impossible or as a temporary complement to Kangaroo Care,
