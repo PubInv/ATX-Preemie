@@ -13,7 +13,9 @@ Every year across the world, many low-birth weight babies die, in part because t
 
 The ATX Preemie Warmer project is an open-source hardware and software project to try to address this problem. All work here is sharable under the GPL (for source code) or the Creative Commons Share Alike license (for hardware designs).
 
-Our three-minute video is a good <a href="https://youtu.be/zb-F0qTptJs">introduction</a>.
+Our three-minute video is a good <a href="https://youtu.be/zb-F0qTptJs">introduction</a>:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zb-F0qTptJs" frameborder="0" allowfullscreen></iframe>
 
 The ATX Preemie Warmer may be valuable:
 
