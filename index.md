@@ -3,6 +3,22 @@ layout: default
 title: ATX Preemie Warmer Main Page
 ---
 
+<!---
+This ATX-Preemie file is associated with the project's mission: to develop a
+cheap, open-source warmer for low-birth weight babies world wide.
+Copyright (C) 2021 Robert Read
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+
 # ATX Preemie Warmer v 0.1 Alpha
 
 <a title="By Polihale (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AMom_and_Premature_Baby_at_Kapiolani.jpg"><img width="512" alt="Mom and Premature Baby at Kapiolani" src="//upload.wikimedia.org/wikipedia/commons/2/20/Mom_and_Premature_Baby_at_Kapiolani.jpg"/></a>
@@ -78,7 +94,7 @@ If you want to potentially save lives, empower people with limited resources, an
 
 ### Embrace
 
-The project is begin addressed by [Embrace Global](http://embraceglobal.org). However, that project supports a for-profit company, and it is not an open-source solution. 
+The project is begin addressed by [Embrace Global](http://embraceglobal.org). However, that project supports a for-profit company, and it is not an open-source solution.
 
 ### IncuBaby
 
@@ -96,4 +112,3 @@ By Polihale (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/
     </li>
   {% endfor %}
 </ul>
-
